@@ -1,3 +1,3 @@
-# Demo
+# Programming by Amanda
 
-Programming By Amanda
+Welcome! 
