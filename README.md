@@ -1,3 +1,3 @@
 # Programming by Amanda
 
-Welcome! 
+Welcome! I have a BS degree in Therapeutic Recreation and while that has been a rewarding career, I decided to make a career change in 2017.  Since then, I have been learning C#, .NET, HTML, CSS, PHP, SQL, Android App Development, Java, JavaScript, Python, Unity, SSRS reports, EPICOR BAQs and Dashboards, and so much more! In 2017, I built webpages for friends from the ground up(in Visual Studio IDE) and in Wordpress. In October 2019, I have worked in a large-scale company, where I am thankful to have grown my skill set.   I have a concrete understanding of methodology, design specifications, and programming concepts.  I thrive in an environment with autonomy, where collaboration is encouraged.  I desire to be a part of a team who values curiosity, learning, growth, efficiency, and quality.  I am always eager to learn more code!
